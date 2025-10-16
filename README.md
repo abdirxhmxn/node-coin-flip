@@ -6,7 +6,7 @@ A two-player coin flip guessing game built with vanilla Node.js using the `http`
 
 ## 🌐 Live Demo
 
-**[Play the Game Here]((https://flip-em.onrender.com/))** 
+**[Play the Game Here](https://flip-em.onrender.com/)**
 
 ## 📖 About The Project
 
