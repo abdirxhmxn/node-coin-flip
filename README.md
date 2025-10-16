@@ -249,7 +249,7 @@ This project is part of a coding bootcamp curriculum and is available for educat
 **Abdirahman Mohamed**
 - GitHub: [@abdirxhmxn](https://github.com/abdirxhmxn)
 - LinkedIn: [Abdirahman Mohamed](https://linkedin.com/in/abdirahmanamohamed)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Portfolio: [mcdigitalservices.pro](https://mcdigitalservices.pro)
 - Email: work.amohamed@gmail.com
 
 ---
