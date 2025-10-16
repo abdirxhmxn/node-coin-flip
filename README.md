@@ -2,7 +2,7 @@
 
 A two-player coin flip guessing game built with vanilla Node.js using the `http` and `fs` modules. Players compete to reach 5 points first by correctly guessing coin flips!
 
-![Game Preview](screenshot-placeholder.png)
+![Game Preview](flip.png)
 
 ## 🌐 Live Demo
 
